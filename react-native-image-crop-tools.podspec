@@ -11,9 +11,9 @@ Pod::Spec.new do |s|
                    DESC
   s.homepage     = ""
   s.license      = "MIT"
-  s.authors      = { "Hunaid Hassan" => "hhunaid@gmail.com" }
+  s.authors      = { "Tahel Romero" => "tahel.romero@gmail.com" }
   s.platforms    = { :ios => "9.0" }
-  s.source       = { :git => "https://github.com/hhunaid/rn-image-crop-tools.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/tahelromero/rn-image-crop-tools.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,m}"
   s.requires_arc = true

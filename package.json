@@ -1,6 +1,6 @@
 {
   "name": "rn-image-crop-tools",
-  "version": "1.8.1",
+  "version": "1.8.3",
   "description": "Native image crop tools with embeddable UI and on the fly aspect ratio switchin",
   "keywords": [
     "react-native",
@@ -13,7 +13,7 @@
     "typescript"
   ],
   "license": "MIT",
-  "author": "Tahel Romero Casanova <tahelromero@gmail.com>",
+  "author": "Tahel Romero Casanova <tahel.romero@gmail.com>",
   "type": "commonjs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -41,5 +41,10 @@
     "react": ">=16.0.0",
     "react-native": ">=0.59.0-rc.0 <1.0.x"
   },
-  "title": "React Native Image Crop Tools"
+  "title": "React Native Image Crop Tools",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahelromero/rn-image-crop-tools.git",
+    "baseUrl": "https://github.com/tahelromero/rn-image-crop-tools"
+  }
 }
